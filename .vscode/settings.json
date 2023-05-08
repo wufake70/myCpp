@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.csv": "bat",
+        "*.html": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "iomanip": "cpp",
+        "new": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

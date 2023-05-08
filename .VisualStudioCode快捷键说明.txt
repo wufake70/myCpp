@@ -1,0 +1,19 @@
+Shift + Alt + F         代码块 自动缩进 对齐
+ctrl + Caps + Enter     光标 跳到下一行
+shift + del             删除当前行
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

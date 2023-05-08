@@ -1,0 +1,15 @@
+
+
+编辑 
+	撤销Ctrl+Z 
+	恢复Ctrl+Y(只有先使用撤销，恢复才有用)
+
+缩进 Tab 
+	删除缩进 	Shift+Tab 
+	
+上移当前行 Ctrl+Shift+Up 
+下移当前行 Ctrl+Shift+Down
+
+
+ctrl + d   			复制当前到下一行		
+ctrl + L    		删除当前行
